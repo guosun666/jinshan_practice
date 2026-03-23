@@ -1,0 +1,4 @@
+#忽略某个指定文件
+password.txt
+#css文件、CSS/index.js忽略文件夹下的文件
+#css/*.js忽略文件夹下的某类文件
